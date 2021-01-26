@@ -3,6 +3,7 @@ add_library(
 	lib_name
 	SHARED
 	function.c
+	printer.c
 )
 
 install(
